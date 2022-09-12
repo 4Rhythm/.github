@@ -9,11 +9,11 @@
 
 ## ⭐Member 
 
-[박준후](https://github.com/ppeper)
+### 🍎[PPEPER](https://github.com/ppeper)
 ###
-[공상택](https://github.com/qwqeqrqwqeqr)
+### 🍑[JAWS](https://github.com/qwqeqrqwqeqr)
 ###
-[김정락](https://github.com/jlal1226)
+### 🍓[ROKY](https://github.com/jlal1226)
 ###
-[조수빈](https://github.com/Sxbxn)
+### 🍒[SOOB](https://github.com/Sxbxn)
 
