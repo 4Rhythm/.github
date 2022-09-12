@@ -1,4 +1,4 @@
-## 👥소개
+## 👥 소개
 
 - 4Rhythm은 다양한 알고리듬 문제를 해결하기 위해 결성된 그룹입니다.
 - 4Rhythm은 4명의 인원이 Algorithm을 해결한다는 의미와 4명의 인원끼리 목표를 이루기 위하여 화합을 이룬다는 for Rhythm이라는 의미를 담고 있습니다.
@@ -6,14 +6,14 @@
 - 코드리뷰외에 알고리즘을 해결하기위한 노하우부터 각종 IT정보를 공유합니다.
 - 주차마다 해결하는 문제는 보통 5문제 내외이며, 난이도에 따라 문제의 개수가 달라집니다.
 - 문제는 주로 BaekJoon 문제를 기반으로 해결합니다.
+- 언어는 각자 주로 이용하는 언어를 사용하여 알고리즘 문제를 해결합니다.
+- 각자 사용하는 언어가 다르기 때문에, 문법보다는 동작방식 및 사용한 알고리즘 위주로 설명합니다.
 
-## ⭐Member 
 
-### 🍎[PPEPER](https://github.com/ppeper)
-###
-### 🍑[JAWS](https://github.com/qwqeqrqwqeqr)
-###
-### 🍓[ROKY](https://github.com/jlal1226)
-###
-### 🍒[SOOB](https://github.com/Sxbxn)
+## ⭐ 구성원 
+
+###### 🍎[PPEPER](https://github.com/ppeper)
+###### 🍑[JAWS](https://github.com/qwqeqrqwqeqr)
+###### 🍓[ROKY](https://github.com/jlal1226)
+###### 🍒[SOOB](https://github.com/Sxbxn)
 
