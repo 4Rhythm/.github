@@ -51,3 +51,11 @@
 ###### 🍒[SOOB](https://github.com/Sxbxn)
 -사용언어: Python
 
+## 📖 문제집
+##### [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
+##### [망나니 개발자 신입 개발자 알고리즘 팁 정리 및 문제 추천](https://mangkyu.tistory.com/181)
+
+## 💼 관련 사이트
+##### [백준 티어 보기](https://solved.ac/)
+##### [백준](https://www.acmicpc.net/)
+##### [프로그래머스](https://programmers.co.kr/)
