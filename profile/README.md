@@ -29,27 +29,21 @@
 
 ## 활동 저장소
 
-### 저장소 주소
-
-[4Rhythm](https://github.com/4Rhythm)
-
 ### 저장소 이용 방식
-
+[저장소 주소](https://github.com/4Rhythm)
 - 저장소는 형상관리 충돌을 방지하기 위해 각자 개인저장소를 만들어 관리합니다.
 - 저장소 내에있는 코드들은 참여인원끼리 공유할 수 있도록 공개(public)합니다.
 - 저장소 내에는 참여자들끼리 어떤 문제인지 알 수 있도록, 문제 번호또는 문제 이름을 파일명으로 하여 저장합니다.
 
 
-## ⭐ 구성원 
+##  구성원 
 
-###### 🍎[PPEPER](https://github.com/ppeper) 
--사용언어: Kotlin
-###### 🍑[JAWS](https://github.com/qwqeqrqwqeqr)
--사용언어: Kotlin
-###### 🍓[ROKY](https://github.com/jlal1226)
--사용언어: Java
-###### 🍒[SOOB](https://github.com/Sxbxn)
--사용언어: Python
+|구성원|사용언어|주소|
+|------|---|---|
+|PPEPER|Kotlin|[PPEPER](https://github.com/ppeper) |
+|JAWS|Kotlin|[JAWS](https://github.com/qwqeqrqwqeqr)|
+|ROKY|Java|[ROKY](https://github.com/jlal1226)|
+|SOOB|Python|[SOOB](https://github.com/Sxbxn)|
 
 ## 📖 문제집
 ##### [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
